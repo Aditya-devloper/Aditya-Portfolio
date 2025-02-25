@@ -1,0 +1,44 @@
+{
+  "service": [
+    {
+      "id": 1,
+      "image": "/images/react.png",
+      "title": "Frontend Development",
+      "desc": "Designing modern, interactive, and user-friendly interfaces with the latest web technologies.",
+      "skills": ["React.js", "Next.js", "Angular", "Tailwind CSS", "Bootstrap"]
+    },
+    {
+      "id": 2,
+      "image": "/images/node.png",
+      "title": "Backend Development",
+      "desc": "Building fast, scalable, and secure backend solutions to power web applications.",
+      "skills": ["Node.js", "Express.js"]
+    },
+    {
+      "id": 3,
+      "image": "/images/mongo.png",
+      "title": "Database Management",
+      "desc": "Efficiently managing and optimizing databases for high-performance applications.",
+      "skills": ["MongoDB", "MySQL", "Firebase"]
+    },
+    {
+      "id": 4,
+      "image": "/images/next.png",
+      "title": "Next.js Development",
+      "desc": "Developing full-stack high-performing and SEO-friendly web applications using Next.js.",
+      "skills": [
+        "Next.js",
+        "React.js",
+        "Server-side Rendering",
+        "Static Site Generation"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "/images/ionic.png",
+      "title": "Hybrid App Development",
+      "desc": "Creating cross-platform mobile apps that work seamlessly on Android and iOS.",
+      "skills": ["Ionic", "Capacitor", "Cordova", "PWA"]
+    }
+  ]
+}
