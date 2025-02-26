@@ -1,10 +1,7 @@
 "use client";
 
-import React, { useEffect } from "react";
-import Link from "next/link";
-import { Button } from "./ui/moving-border";
+import React from "react";
 import { BackgroundGradient } from "./ui/background-gradient";
-import Image from "next/image";
 import serviceData from "@/data/services.json";
 
 interface Service {
@@ -12,7 +9,7 @@ interface Service {
   title: string;
   image: string;
   desc: string;
-  skills: any[];
+  skills: string[];
 }
 
 function Services() {
@@ -24,7 +21,7 @@ function Services() {
             My Services
           </h2>
           <p className="mt-2 text-md md:text-lg leading-8 font-bold text-white tracking-wide ">
-            Let's Build Something Amazing Together
+            Let&apos;s Build Something Amazing Together
           </p>
         </div>
       </div>

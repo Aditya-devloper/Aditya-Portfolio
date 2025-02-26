@@ -1,9 +1,6 @@
 "use client";
 
-import Link from "next/link";
 import React from "react";
-import { Spotlight } from "./ui/Spotlight";
-import { Button } from "./ui/moving-border";
 import { AuroraBackground } from "./ui/aurora-background";
 import { motion } from "framer-motion";
 import { FlipWords } from "./ui/flip-words";

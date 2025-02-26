@@ -9,8 +9,9 @@ function ContactUs() {
           <div className="px-6 sm:px-12 lg:px-20">
             <p className="text-gray-300 text-start text-sm md:text-lg tracking-wide">
               Feel free to reach out! Whether you have a project in mind, need
-              technical help, or just want to connect, I'm always open to new
-              opportunities. <br /> Let's create something amazing together!
+              technical help, or just want to connect, I&apos;m always open to
+              new opportunities. <br /> Let&apos;s create something amazing
+              together!
             </p>
             <div className="mt-6 space-y-4">
               <div className="flex items-center space-x-4">
